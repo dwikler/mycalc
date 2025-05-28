@@ -1,2 +1,1 @@
-# mycalc
-Test
+This is a test bed
