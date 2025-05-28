@@ -11,6 +11,9 @@ venv/
 # Poetry specific
 poetry.lock
 
+# VSCode specific
+.vscode/
+
 # macOS specific
 .DS_Store
 .AppleDouble
