@@ -1,0 +1,17 @@
+# Byte-compiled / optimized files
+__pycache__/
+*.py[cod]
+
+# Virtual environments
+.env
+.venv
+env/
+venv/
+
+# Poetry specific
+poetry.lock
+
+# macOS specific
+.DS_Store
+.AppleDouble
+.LSOverride
