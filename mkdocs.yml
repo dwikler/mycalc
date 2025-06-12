@@ -9,6 +9,9 @@ plugins:
         python:
           paths: [src]
           options:
+            docstring_style: google
+            docstring_section_style: spacy
+            show_root_heading: true
             show_symbol_type_heading: true
             show_symbol_type_toc: true
 theme:
