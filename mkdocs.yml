@@ -1,6 +1,4 @@
 site_name: MyCalc Documentation
-site_url: https://dwikler.github.io/mycalc/docs/
-use_directory_urls: true
 nav:
   - Home: index.md
   - CLI Apps:
