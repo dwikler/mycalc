@@ -1,0 +1,15 @@
+site_name: MyCalc Documentation
+nav:
+  - Home: index.md
+  - CLI Apps: cli.md
+plugins:
+  - search
+  - mkdocstrings:
+      handlers:
+        python:
+          paths: [src]
+          options:
+            show_symbol_type_heading: true
+            show_symbol_type_toc: true
+theme:
+  name: material
