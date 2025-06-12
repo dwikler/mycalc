@@ -1,7 +1,9 @@
 site_name: MyCalc Documentation
 nav:
   - Home: index.md
-  - CLI Apps: cli.md
+  - CLI Apps:
+      - Calc:
+          - Add: cli.md
 plugins:
   - search
   - mkdocstrings:
